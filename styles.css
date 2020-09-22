@@ -1,0 +1,85 @@
+body {
+  background-color: lightyellow;
+  font-family:"Times new roman", sans-serif;
+  color: black;
+  }
+h1 {
+  color: orange;
+  font-family:"Castellar";
+    
+  }
+img{
+  
+  width:400px;
+  }
+nav ul {
+  background-color:pink;
+  border-style: solid;
+  border-color: darkblue;
+  border-width: 2px;
+  padding: 15px;
+  border-radius: 10px;
+}
+nav ul li {
+  list-style-type: none;
+  display: inline;
+  margin-right: 10px;
+  margin-left: 10px;
+  color: PapayaWhip;
+}
+nav ul li a {
+  text-decoration: none;
+  color: darkblue;
+}
+strong1{
+  size:300%;
+  
+}
+
+
+
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**********************************
+This section is for styling tables
+***********************************/
+table, th, td {
+  border: 1px solid HoneyDew;
+  border-collapse: collapse;
+}
+tr {
+  background-color: PaleTurquoise;
+}
+th, td {
+  vertical-align: top;
+  padding: 10px;
+  text-align: left;
+}
+th {
+  color: orange;
+}
+td {
+  color: purple;
+}
+/********************************/
